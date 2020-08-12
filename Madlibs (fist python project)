@@ -1,0 +1,19 @@
+
+# This is just collecting inputs
+
+Town = input("Enter the name of a town: ")
+Family = input("Enter the name of a female: ")
+Adjective = input("Enter an adjective: ")
+ing_verb = input("Enter a verb that ends in ing: ")
+noun = input("Enter a noun: ")
+place = input("Enter a place: ")
+
+# Prints madlib with inputs
+print("One day in " + Town)
+print("I saw " + Family)
+print("acting")
+print(Adjective + ". She was" )
+print(ing_verb + " a big " + noun)
+print("Then she went to " + place)
+print("and she did it again!")
+
